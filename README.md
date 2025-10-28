@@ -28,9 +28,6 @@
 - [Key Features](#-key-features)
 - [How It Works: A Technical Deep Dive](#-how-it-works-a-technical-deep-dive)
 - [Installation & Setup](#-installation--setup)
-- [How to Use](#-how-to-use)
-- [Ethical Hacking Disclaimer](#️-ethical-hacking-disclaimer)
-- [License](#-license)
 
 ---
 
