@@ -99,7 +99,7 @@ This tool is simple to run. No complex installation is needed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/StegPNG.git](https://github.com/YOUR_USERNAME/StegPNG.git)
+    git clone https://github.com/agent-rxd/StegPNG.git
     cd StegPNG
     ```
 
