@@ -274,7 +274,7 @@ class StegPNG:
             max_bits = width * height * 3
             if data_len > max_bits:
                 messagebox.showerror("Error",
-                                     f"Message too large for this image. Needs {data_len} bits, image can only hide {max_bits} bits.")
+                                     f"Message too large for image. Needs {data_len} bits, image can only hide {max_bits} bits.")
                 return
 
             data_index = 0
